@@ -128,7 +128,7 @@ button {
   object-fit: fill;
 }
 
-.card-body {
+.card-body-- {
   display: flex;
   flex-direction: column;
   justify-content: center;
